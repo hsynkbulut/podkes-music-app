@@ -1,16 +1,4 @@
-# hk_music
+# 🎵 Podkes - Müzik Uygulaması
+Bu GitHub reposu, Flutter kullanılarak geliştirilen modern bir müzik uygulaması projesini içerir. Projede, Figma tasarımına dayalı olarak üç farklı ekranın uygulaması bulunmaktadır.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/hsynkbulut/podkes-music-app/assets/106428623/618ab0dd-4538-4f36-8263-880e69fd0700
