@@ -44,7 +44,7 @@ class _ComedyCategoryPageState extends State<ComedyCategoryPage> {
           ),
           child: Container(
             //margin: const EdgeInsets.all(5),
-            padding: const EdgeInsets.all(8),
+            padding: const EdgeInsets.all(5),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(5.0),
               //color: AppColors.textGrey,
@@ -60,7 +60,7 @@ class _ComedyCategoryPageState extends State<ComedyCategoryPage> {
                         borderRadius: BorderRadius.circular(5),
                         child: Image(
                           fit: BoxFit.cover,
-                          height: 180,
+                          height: 170,
                           image: AssetImage(data.image),
                         )),
                   ],
